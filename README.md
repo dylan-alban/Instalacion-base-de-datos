@@ -8,5 +8,5 @@ Ahora instalaremos mariadb que es el programa que gestiona la base de datos; usa
 <img width="932" height="74" alt="Captura de 2026-10-20 15-46-13" src="https://github.com/user-attachments/assets/eebbe85b-a501-48c3-b4b8-6b79e235e6e2" />
 
 ### 2.1 
-Tambien comprobamos la version instalada con (mariadb --version) y deberemos ver algo parecido a esto (imagen)
-
+Tambien comprobamos la version instalada con (mariadb --version) y deberemos ver algo parecido a esto 
+<img width="817" height="55" alt="imagen" src="https://github.com/user-attachments/assets/f0336f66-e45c-4a68-bbca-965b8ca04209" />
