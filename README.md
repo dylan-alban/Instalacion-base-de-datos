@@ -27,3 +27,4 @@ Para comprobar que se ejecuta el php pondremos lo siguiente (echo '<?php phpinfo
 <img width="963" height="703" alt="Captura de 2026-10-22 18-41-36" src="https://github.com/user-attachments/assets/773c6cf5-f48d-47b1-9dda-b36c589bd6fe" />
 ## 5 comprobacion final
 Para comprobar que lo hemos hecho todo bien usaremos (systemctl is-active apache2 mariadb y php -v)
+<img width="576" height="145" alt="imagen" src="https://github.com/user-attachments/assets/5484a58c-1b6a-4843-9102-ab0cbc099f2c" />
