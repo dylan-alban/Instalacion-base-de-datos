@@ -14,3 +14,9 @@ Tambien comprobamos la version instalada con (mariadb --version) y deberemos ver
 debemos moxtrar el estado del servicio para saber si esta activado correctamente; para ello usaremos los siguientes comandos "sudo systemctl status mariadb" para saber el estado, "systemctl is-enabled mariadb" para saber si el mariadb esta activado 
 <img width="832" height="215" alt="imagen" src="https://github.com/user-attachments/assets/f7a77ddb-8c5c-4127-9bb7-ebd0b1e01a5f" />
 <img width="438" height="33" alt="imagen" src="https://github.com/user-attachments/assets/8670885a-41a0-4f14-b024-886d79e0a058" />
+### 3.2 
+comprobaremos que podemos entrar en la base de datos poniendo "mariadb" y nos deberia salir algo como esto
+<img width="716" height="200" alt="imagen" src="https://github.com/user-attachments/assets/417b24ba-e25a-4837-8aa0-aa69b57f6e15" />
+despues pondriamos exit para salir de maria db
+
+### 4 Instalacion de PHP
