@@ -20,5 +20,5 @@ comprobaremos que podemos entrar en la base de datos poniendo "mariadb" y nos de
 despues pondriamos exit para salir de maria db
 
 ### 4 Instalacion de PHP
-Instalamos el PHP ya que wordpress esta hecho en php; Instalaremos todo esto (sudo apt install php libapache2-mod-php php-mysql php-curl php-gd php-mbstring php-xml php-zip php-intl -y) tal cual
-y luego deberemos hacer "php -v" y nos deberia salir algo como esto <img width="583" height="23" alt="imagen" src="https://github.com/user-attachments/assets/b1ffcac4-8b4c-4f79-8756-18aa8710ae32" />
+Instalamos el PHP ya que wordpress esta hecho en php; Instalaremos todo esto (sudo apt install php libapache2-mod-php php-mysql php-curl php-gd php-mbstring php-xml php-zip php-intl -y) tal cual.
+Y luego deberemos hacer "php -v" y nos deberia salir algo como esto <img width="583" height="23" alt="imagen" src="https://github.com/user-attachments/assets/b1ffcac4-8b4c-4f79-8756-18aa8710ae32" />
