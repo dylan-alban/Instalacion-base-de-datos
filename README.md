@@ -23,3 +23,5 @@ Instalamos el PHP ya que wordpress esta hecho en php; Instalaremos todo esto (su
 Y luego deberemos hacer "php -v" y nos deberia salir algo como esto <img width="583" height="23" alt="imagen" src="https://github.com/user-attachments/assets/b1ffcac4-8b4c-4f79-8756-18aa8710ae32" />
 tambien reiniciaremos el apache con "sudo systemctl restart apache2"
 ### 4.5 comprobar que apache ejecuta php
+Para comprobar que se ejecuta el php pondremos lo siguiente (echo '<?php phpinfo();' | sudo tee /var/www/html/info.php) y abriremos la pagina con tu ip en el navegador y debaera aparecer una pagina morada
+<img width="963" height="703" alt="Captura de 2026-10-22 18-41-36" src="https://github.com/user-attachments/assets/773c6cf5-f48d-47b1-9dda-b36c589bd6fe" />
